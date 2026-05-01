@@ -21,7 +21,7 @@ This project is a classic 9×9 Sudoku game where players fill the grid while fol
 5. Game Timer Mode ![](UserInterface/timer_mode.png)
 
 ## Installation & Setup
-1. Clone the repository: git clone https://github.com/your-username/sudoku-game.git
+1. Clone the repository: git clone https://github.com/md-rakib-78/sudoku-game.git
 2. Open in your preferred IDE (IntelliJ / Eclipse)
 3. Run the project: start.java
 
