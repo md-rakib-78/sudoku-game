@@ -22,7 +22,7 @@ This project is a classic 9×9 Sudoku game where players fill the grid while fol
 
 ## Installation & Setup
 1. Clone the repository: git clone https://github.com/md-rakib-78/sudoku-game.git
-2. Open in your preferred IDE (IntelliJ / Eclipse)
+2. Open in preferred IDE (VS Code)
 3. Run the project: start.java
 
 ## Future Improvements
