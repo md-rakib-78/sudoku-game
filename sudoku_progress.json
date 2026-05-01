@@ -1,0 +1,16 @@
+{
+  "progress": [
+    {
+      "level": 1,
+      "levelOpen": true,
+      "gameMode": "",
+      "timeMode": "",
+      "completed": false,
+      "score": 0,
+      "finishedTimeSeconds": 0,
+      "usedHints": 0,
+      "stars": 0,
+      "playedAt": ""
+    }
+  ]
+}
