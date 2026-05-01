@@ -14,5 +14,26 @@ This project is a classic 9×9 Sudoku game where players fill the grid while fol
 7. Interactive and user-friendly interface
 
 ## User Interface
-1. Game Splash screen
-  
+1. Game Splash screen <br> ![](UserInterface/splash_screen.png)
+2. Game Menu ![](UserInterface/game_menu.png)
+3. Game Board ![](UserInterface/game_board.png)
+4. Game Levels ![](UserInterface/game-level.png)
+5. Game Timer Mode ![](UserInterface/timer_mode.png)
+
+## Installation & Setup
+1. Clone the repository: git clone https://github.com/your-username/sudoku-game.git
+2. Open in your preferred IDE (IntelliJ / Eclipse)
+3. Run the project: start.java
+
+## Future Improvements
+1. Android version
+2. Online multiplayer
+3. Leaderboard system
+4. Sound effects and animations
+
+## Author
+Md Rakibul Islam <br>
+CSE Student | Java Developer
+
+## ⭐ Support
+If you like this project, please give it a ⭐ on GitHub!
